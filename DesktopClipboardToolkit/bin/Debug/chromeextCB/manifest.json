@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Clipboard Buddy chrome plugin",
+  "description": "This extension will ease the creation of clipboard items from browser pages",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon_small.png",
+   "default_popup": "cbpopup.html"
+  },
+  "permissions": [
+   "activeTab",
+   "contextMenus"
+   ]
+}
