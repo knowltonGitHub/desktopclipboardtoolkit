@@ -1,0 +1,115 @@
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x86\sqlite3.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x64\sqlite3.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x86\e_sqlite3.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x64\e_sqlite3.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.exe.config
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.exe
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.pdb
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-Net.Extensions.Readers.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.ValueTuple.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Web.Http.dll
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.pdb
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-Net.Extensions.Readers.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.ValueTuple.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Web.Http.xml
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.AboutForm.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.ClipboardItems.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.MainForm.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.Properties.Resources.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csproj.GenerateResource.cache
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csproj.CoreCompileInputs.cache
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csproj.CopyComplete
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.exe
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.pdb
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.TagControl.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.ClipboardItemGeneratorControl.resources
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csprojResolveAssemblyReference.cache
+C:\Users\ENDER\Desktop\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.NewClipboardItemForm.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x86\sqlite3.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x64\sqlite3.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x86\e_sqlite3.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\x64\e_sqlite3.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardItemsControl.resx
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardValueControl.resx
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Forms\NewClipboardItemForm.resx
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardItemsControl.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardItemsControl.Designer.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardValueControl.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\ClipboardValueControl.Designer.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Forms\NewClipboardItemForm.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Forms\NewClipboardItemForm.Designer.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\TagControl.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\UserControls\TagControl.Designer.cs
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.exe.config
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.exe
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\DesktopClipboardToolkit.pdb
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Castle.Core.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Fizzler.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Moq.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\nunit.framework.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-Net.Extensions.Readers.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.Platform.Generic.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite.Net.Platform.Win32.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.ValueTuple.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Web.Http.dll
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Castle.Core.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Moq.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\nunit.framework.pdb
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\nunit.framework.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.pdb
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-net.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\SQLite-Net.Extensions.Readers.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.ValueTuple.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\bin\Debug\System.Web.Http.xml
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.AboutForm.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.GetGMailToAddress.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.ClipboardItemGeneratorControl.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.ClipboardItemsControl.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.ClipboardValueControl.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.MainForm.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.NewClipboardItemForm.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.Preferences.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.Properties.Resources.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.UserLogin.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.TagControl.resources
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csproj.GenerateResource.cache
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csproj.CopyComplete
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.exe
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.pdb
+C:\Users\ENDER\Desktop\Tom Stuff\DesktopClipboardToolkit\DesktopClipboardToolkit\obj\Debug\DesktopClipboardToolkit.csprojAssemblyReference.cache
