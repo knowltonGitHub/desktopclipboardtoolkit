@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQLite-Net.Extensions.Readers</name>
+    </assembly>
+    <members>
+        <member name="P:SQLite_Net.Extensions.Readers.ReaderItem.Fields">
+            <summary>
+            Get column names
+            </summary>
+        </member>
+        <member name="T:SQLite_Net.Extensions.Readers.SQLiteCommandReaderExtensions">
+            <summary>
+            Extension that let you query the databse as you can do it with SqlReader
+            </summary>
+        </member>
+        <member name="M:SQLite_Net.Extensions.Readers.SQLiteCommandReaderExtensions.ExecuteReader(SQLite.SQLiteConnection,System.String)">
+            <summary>
+            Execute a query on the database
+            </summary>
+            <param name="sqliteConn">Connection to the database</param>
+            <param name="cmdText">sql command</param>
+            <param name="ps">parameters</param>
+            <returns></returns>
+        </member>
+        <member name="M:SQLite_Net.Extensions.Readers.SQLiteCommandReaderExtensions.ToType(SQLite.SQLite3.ColType)">
+            <summary> 
+            Get a typeof() element from ColType enumeration. 
+            </summary> 
+            <param name="colType"></param> 
+            <returns></returns> 
+        </member>
+        <member name="M:SQLite_Net.Extensions.Readers.ColumnLite.#ctor(System.String,System.Type)">
+            <summary> 
+            Internal constructor used for Dynamic queries that returns IDictionary 
+            </summary> 
+            <param name="name"></param> 
+            <param name="columnType"></param> 
+        </member>
+    </members>
+</doc>
